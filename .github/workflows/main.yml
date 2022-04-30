@@ -1,4 +1,4 @@
-name: VPS
+name: debugger-action
 on: 
   watch:
     types: master
